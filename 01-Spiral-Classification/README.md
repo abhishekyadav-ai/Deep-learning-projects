@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates multiclass classification on a synthetic spiral dataset using a feedforward neural network built with TensorFlow and Keras.
+This project demonstrates multiclass classification on a synthetic spiral dataset using a neural network built with TensorFlow and Keras.
 
 The spiral dataset is a classic non-linear classification problem where three classes are arranged in intertwined spiral patterns. A simple linear model cannot separate these classes effectively, making it a good example for understanding how neural networks learn complex decision boundaries.
 
