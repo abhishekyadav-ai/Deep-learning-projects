@@ -72,8 +72,6 @@ Training and validation loss across epochs.
 ## Results
 
 The trained neural network successfully learned the underlying patterns in the dataset and demonstrated strong predictive performance.
-
-A key part of the project involved evaluating the model on unseen data that was not used during training. The model was able to generate accurate predictions on these new samples, indicating good generalization capability and showing that it learned meaningful patterns rather than simply memorizing the training data.
 ![Testing On Unseen Data](unseen_data.png)
 
 ---
